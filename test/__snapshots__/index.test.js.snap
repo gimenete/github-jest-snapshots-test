@@ -6,7 +6,7 @@ Object {
   "bugs": Object {
     "url": "https://github.com/gimenete/github-jest-snapshots-test/issues",
   },
-  "description": "Another description",
+  "description": "Yet another description",
   "devDependencies": Object {
     "jest": "^24.0.0",
   },
