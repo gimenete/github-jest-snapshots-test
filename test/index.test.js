@@ -1,4 +1,4 @@
 it('renders correctly', () => {
-  const pack = require('../package.json')
-  expect(pack).toMatchSnapshot();
+  const pack1 = require('../package.json')
+  expect(pack1).toMatchSnapshot();
 });
