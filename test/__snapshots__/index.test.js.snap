@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Object {
+  "author": "",
+  "bugs": Object {
+    "url": "https://github.com/gimenete/github-jest-snapshots-test/issues",
+  },
+  "description": "",
+  "devDependencies": Object {
+    "jest": "^24.0.0",
+  },
+  "homepage": "https://github.com/gimenete/github-jest-snapshots-test#readme",
+  "keywords": Array [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "github-jest-snapshots-test",
+  "repository": Object {
+    "type": "git",
+    "url": "git+https://github.com/gimenete/github-jest-snapshots-test.git",
+  },
+  "scripts": Object {
+    "test": "jest",
+  },
+  "version": "1.0.0",
+}
+`;
