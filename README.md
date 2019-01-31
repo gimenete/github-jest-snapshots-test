@@ -1,0 +1,1 @@
+# github-jest-snapshots-test
