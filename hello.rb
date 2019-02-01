@@ -1,6 +1,6 @@
 # this is a ruby app!
 
-def badName
+def reallyBadName
   if something
     test
     end
